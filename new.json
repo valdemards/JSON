@@ -1,6 +1,6 @@
 {
-"name": "Vladimir",
-"surname":"Danilov",
-"pets_number": 0,
-"future_salary": 3000
+    "name": "Vladimir",
+    "surname":"Danilov",
+    "pets_number": 0,
+    "future_salary": 3000
 }

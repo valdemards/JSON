@@ -1,7 +1,7 @@
 {
-"first_skill":"Terminal",
-"second_skill":"Git",
-"third_skill":"SQL",
-"fourth_skill":"Postman",
-"fifth_skill":"Mobile_testing"
+    "first_skill":"Terminal",
+    "second_skill":"Git",
+    "third_skill":"SQL",
+    "fourth_skill":"Postman",
+    "fifth_skill":"Mobile_testing"
 }
