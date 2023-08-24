@@ -1,1 +1,5 @@
-
+{
+  "first_bug": "wrong lending page background",
+  "second_bug": "login button doesnt work",
+  "thisrd bug": "no confirmation email after registration"
+}
